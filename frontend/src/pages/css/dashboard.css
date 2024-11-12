@@ -1,0 +1,89 @@
+.dashboard{
+    background-color: #FFF8DC;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+}
+.navbar-dashboard{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    padding-top: 2%;
+}
+.emp-btn{
+    height: 40px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+    border: none;
+    color: #fff;
+    background: #151B54;
+}
+.navbar-first{
+    width: 20%;
+}
+.navbar-second{
+    width: 60%;
+}
+.navbar-third{
+    width: 20%;
+}
+.img-logo{
+    width: 50%;
+    margin-left: 10%;
+}
+.nav-text{
+    text-align: center;
+    font-size: 3vh;
+}
+.logout-btn{
+    margin-left: 50%;
+    width: 30%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: #151B54;
+    border: none;
+    color: #fff;
+}
+.dashboard-body{
+    height: 50vh;
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-top: 5%;  
+}
+.dashboard-main{
+    display: flex;
+    margin-top: 10%
+}
+.dash-head{
+    text-align: center;
+    margin-top: 10%;
+    padding-top: 10%;
+}
+.add-employee{
+    width: 50%;
+    text-align: center;
+}
+.edit-employee{
+    width: 50%;
+    text-align: center;
+}
+.add-emp-btn{
+    width: 30%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: #151B54;
+    border: none;
+    color: #fff;
+}
+.edit-emp-btn{
+    width: 30%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: #151B54;
+    border: none;
+    color: #fff;
+}

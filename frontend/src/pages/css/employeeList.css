@@ -1,0 +1,129 @@
+.employee-page{
+    background-color: #FFF8DC;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    padding-bottom: 200px;
+    height: 200vh;
+}
+
+.search-popup{
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+.search-result-item{
+    cursor: pointer;
+}
+.search-bar{
+    width: 60%;
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.search-input{
+    width: 80%;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px solid #000;
+    padding-left: 15px;
+    margin-left: 5%;
+}
+.ad-btn{
+    margin-left: 5%;
+    border-radius: 15px;
+    border: 1px solid #000;
+    width: 10%;
+}
+.search{
+    margin-left: 5%;
+    width: 15%;
+    border-radius: 15px;
+    border: 1px solid #000;
+}
+.list-form{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.employee-id{
+    width: 5%;
+    text-align: center;
+}
+.employee-img{
+    width: 7%;
+    text-align: center;
+}
+.employee-profileImg{
+    width: 50%;
+    margin-left: 5%;
+}
+.employee-name{
+    width: 15%;
+    
+}
+.employee-email{
+    width: 18%;
+ 
+}
+.employee-phone{
+    width: 7%;
+  
+}
+.employee-designation{
+    width: 7%;
+    text-align: center;
+}
+.employee-gender{
+    width: 6%;
+    text-align: center;
+}
+.employee-course{
+    width: 10%;
+   text-align: center;
+}
+.employee-createdDate{
+    width: 10%;
+    
+}
+.employee-action{
+    width: 15%;
+}
+.list-t{
+    margin-left: 2%;
+}
+.employee-createdDate{
+    text-align: center;
+}
+.list-td{
+    text-align: center;
+}
+.list-heading{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.employee-action-h{
+    width: 15%;
+    text-align: center;
+}
+
+.edit-btn{
+    width: 30%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: #06440e;
+    border: none;
+    color: #fff;margin-left: 15%;
+}
+.delete-btn{
+    width: 30%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: #520000;
+    border: none;
+    color: #fff;margin-left: 10%;
+}
